@@ -1,5 +1,5 @@
 [package]
-name = "ethan/ui-test"
+name = "luavmx/ui-test"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"

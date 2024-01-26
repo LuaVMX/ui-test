@@ -8,6 +8,6 @@ version = "0.2.0"
 dependencies = []
 
 [[package]]
-name = "ethan/ui-test"
+name = "luavmx/ui-test"
 version = "0.1.0"
 dependencies = [["fusion", "elttob/fusion@0.2.0"]]
